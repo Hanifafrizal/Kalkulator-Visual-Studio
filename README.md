@@ -1,2 +1,0 @@
-
-Nama : Hanif Afrizal
