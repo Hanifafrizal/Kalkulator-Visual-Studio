@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\expedisi barang\expedisi barang\bin\Debug\expedisi barang.exe.config
+C:\Users\asus\source\repos\expedisi barang\expedisi barang\bin\Debug\expedisi barang.exe
+C:\Users\asus\source\repos\expedisi barang\expedisi barang\bin\Debug\expedisi barang.pdb
+C:\Users\asus\source\repos\expedisi barang\expedisi barang\obj\Debug\expedisi barang.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\expedisi barang\expedisi barang\obj\Debug\expedisi_barang.Properties.Resources.resources
+C:\Users\asus\source\repos\expedisi barang\expedisi barang\obj\Debug\expedisi barang.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\expedisi barang\expedisi barang\obj\Debug\expedisi barang.exe
+C:\Users\asus\source\repos\expedisi barang\expedisi barang\obj\Debug\expedisi barang.pdb
+C:\Users\asus\source\repos\expedisi barang\expedisi barang\obj\Debug\expedisi_barang.Akun.resources
+C:\Users\asus\source\repos\expedisi barang\expedisi barang\obj\Debug\expedisi_barang.Menu.resources
